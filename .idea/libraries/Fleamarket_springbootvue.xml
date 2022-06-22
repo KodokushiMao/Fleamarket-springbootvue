@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Fleamarket-springbootvue">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/bes/src/main/java" />
+      <root url="file://$PROJECT_DIR$/bes/src/test/java" />
+      <root url="file://$PROJECT_DIR$/bes/.mvn/wrapper" />
+    </SOURCES>
+  </library>
+</component>
